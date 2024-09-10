@@ -9,7 +9,6 @@ struct Contact {
     char email[50];
 };
 
-// Declare functions
 void addContact();
 void modifyContact();
 void deleteContact();
